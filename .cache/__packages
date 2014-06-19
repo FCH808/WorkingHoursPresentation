@@ -1,0 +1,14 @@
+base
+data.table
+devtools
+Formula
+ggplot2
+ggthemes
+Hmisc
+lattice
+plyr
+reshape2
+shiny
+shinyapps
+slidify
+survival
